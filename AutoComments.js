@@ -168,5 +168,7 @@ callback(
 
 { "name": "[Q] Accept Answer", "description": "If one of the answers below answered your question, the way this site works works, you'd \"accept\" the answer, more here: <strong><em><a href=\"https://$SITEURL$/help/someone-answers\">What should I do when someone answers my question?</a></strong></em>. But only if your question really has been answered. If not, consider adding more details to the question."},
 
+{ "name": "[Q] No Attempt", "description": "The posted question does not appear to include [any attempt](https://idownvotedbecau.se/noattempt/) at all to solve the problem. StackOverflow expects you to [try to solve your own problem first](https://meta.stackoverflow.com/questions/261592/how-much-research-effort-is-expected-of-stack-overflow-users), as your attempts help us to better understand what you want. Please edit the question to show what you've tried, so as to illustrate a specific problem you're having in a [mcve]. For more information, please see [ask] and take the [tour]."},
+  
 ]
 )
